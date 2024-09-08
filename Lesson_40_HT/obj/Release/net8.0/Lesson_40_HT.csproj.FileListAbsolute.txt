@@ -1,0 +1,14 @@
+C:\Users\elvin\Desktop\Lesson_40_HT\Lesson_40_HT\bin\Release\net8.0\Lesson_40_HT.exe
+C:\Users\elvin\Desktop\Lesson_40_HT\Lesson_40_HT\bin\Release\net8.0\Lesson_40_HT.deps.json
+C:\Users\elvin\Desktop\Lesson_40_HT\Lesson_40_HT\bin\Release\net8.0\Lesson_40_HT.runtimeconfig.json
+C:\Users\elvin\Desktop\Lesson_40_HT\Lesson_40_HT\bin\Release\net8.0\Lesson_40_HT.dll
+C:\Users\elvin\Desktop\Lesson_40_HT\Lesson_40_HT\bin\Release\net8.0\Lesson_40_HT.pdb
+C:\Users\elvin\Desktop\Lesson_40_HT\Lesson_40_HT\obj\Release\net8.0\Lesson_40_HT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvin\Desktop\Lesson_40_HT\Lesson_40_HT\obj\Release\net8.0\Lesson_40_HT.AssemblyInfoInputs.cache
+C:\Users\elvin\Desktop\Lesson_40_HT\Lesson_40_HT\obj\Release\net8.0\Lesson_40_HT.AssemblyInfo.cs
+C:\Users\elvin\Desktop\Lesson_40_HT\Lesson_40_HT\obj\Release\net8.0\Lesson_40_HT.csproj.CoreCompileInputs.cache
+C:\Users\elvin\Desktop\Lesson_40_HT\Lesson_40_HT\obj\Release\net8.0\Lesson_40_HT.dll
+C:\Users\elvin\Desktop\Lesson_40_HT\Lesson_40_HT\obj\Release\net8.0\refint\Lesson_40_HT.dll
+C:\Users\elvin\Desktop\Lesson_40_HT\Lesson_40_HT\obj\Release\net8.0\Lesson_40_HT.pdb
+C:\Users\elvin\Desktop\Lesson_40_HT\Lesson_40_HT\obj\Release\net8.0\Lesson_40_HT.genruntimeconfig.cache
+C:\Users\elvin\Desktop\Lesson_40_HT\Lesson_40_HT\obj\Release\net8.0\ref\Lesson_40_HT.dll
